@@ -2,8 +2,9 @@
  Loading and unloading json files
 
 # Dependencies
-Must have pip
 
-Must install bcrypt
+Recomended you install pip
 
-Must have latest version of python
+You need bcrypt installed
+
+Use python version 3.8.5 or higher for best compatibility
